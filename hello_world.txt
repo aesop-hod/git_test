@@ -1,0 +1,2 @@
+This is some hello world random text.
+Although it's not really that random; just useless
